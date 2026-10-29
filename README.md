@@ -8,8 +8,8 @@ P = pause, R = resume, Q = quit
 
 ## Requirements
 - C++ and SFML 3 (audio module)
-- Your own audio file named Wiishopchannel.mp3 next to the program
-  (rename the file or change the filename in main.cpp to use another song)
+- Your own audio file in the same folder as the project, replace the "filename" with the full title of your audio
+  (change the filename in main.cpp to use another song)
 
 ## Planned
 - Play any song by typing its file name
